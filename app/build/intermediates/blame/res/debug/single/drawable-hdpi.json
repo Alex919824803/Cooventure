@@ -1,0 +1,58 @@
+[
+    {
+        "merged": "D:\\github clone repository\\Cooventure\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\default_image.png",
+        "source": "D:\\github clone repository\\Cooventure\\app\\src\\main\\res\\drawable-hdpi\\default_image.png"
+    },
+    {
+        "merged": "D:\\github clone repository\\Cooventure\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\exercisedetails_time.png",
+        "source": "D:\\github clone repository\\Cooventure\\app\\src\\main\\res\\drawable-hdpi\\exercisedetails_time.png"
+    },
+    {
+        "merged": "D:\\github clone repository\\Cooventure\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\exercisedetails_name1.png",
+        "source": "D:\\github clone repository\\Cooventure\\app\\src\\main\\res\\drawable-hdpi\\exercisedetails_name1.png"
+    },
+    {
+        "merged": "D:\\github clone repository\\Cooventure\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\exam_icon_arrow.png",
+        "source": "D:\\github clone repository\\Cooventure\\app\\src\\main\\res\\drawable-hdpi\\exam_icon_arrow.png"
+    },
+    {
+        "merged": "D:\\github clone repository\\Cooventure\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\bule_btn.png",
+        "source": "D:\\github clone repository\\Cooventure\\app\\src\\main\\res\\drawable-hdpi\\bule_btn.png"
+    },
+    {
+        "merged": "D:\\github clone repository\\Cooventure\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\title_leftbg.png",
+        "source": "D:\\github clone repository\\Cooventure\\app\\src\\main\\res\\drawable-hdpi\\title_leftbg.png"
+    },
+    {
+        "merged": "D:\\github clone repository\\Cooventure\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\exercisedetails_organ.png",
+        "source": "D:\\github clone repository\\Cooventure\\app\\src\\main\\res\\drawable-hdpi\\exercisedetails_organ.png"
+    },
+    {
+        "merged": "D:\\github clone repository\\Cooventure\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_launcher.png",
+        "source": "D:\\github clone repository\\Cooventure\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\github clone repository\\Cooventure\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\login_button_login.9.png",
+        "source": "D:\\github clone repository\\Cooventure\\app\\src\\main\\res\\drawable-hdpi\\login_button_login.9.png"
+    },
+    {
+        "merged": "D:\\github clone repository\\Cooventure\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\login_button_login_press.9.png",
+        "source": "D:\\github clone repository\\Cooventure\\app\\src\\main\\res\\drawable-hdpi\\login_button_login_press.9.png"
+    },
+    {
+        "merged": "D:\\github clone repository\\Cooventure\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\grey_btn.png",
+        "source": "D:\\github clone repository\\Cooventure\\app\\src\\main\\res\\drawable-hdpi\\grey_btn.png"
+    },
+    {
+        "merged": "D:\\github clone repository\\Cooventure\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\personl_arrow.png",
+        "source": "D:\\github clone repository\\Cooventure\\app\\src\\main\\res\\drawable-hdpi\\personl_arrow.png"
+    },
+    {
+        "merged": "D:\\github clone repository\\Cooventure\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\login_bg.png",
+        "source": "D:\\github clone repository\\Cooventure\\app\\src\\main\\res\\drawable-hdpi\\login_bg.png"
+    },
+    {
+        "merged": "D:\\github clone repository\\Cooventure\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\me.png",
+        "source": "D:\\github clone repository\\Cooventure\\app\\src\\main\\res\\drawable-hdpi\\me.png"
+    }
+]

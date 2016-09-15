@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "D:\\github clone repository\\Cooventure\\app\\build\\intermediates\\res\\merged\\debug\\layout\\event_list_item.xml",
+        "source": "D:\\github clone repository\\Cooventure\\app\\src\\main\\res\\layout\\event_list_item.xml"
+    },
+    {
+        "merged": "D:\\github clone repository\\Cooventure\\app\\build\\intermediates\\res\\merged\\debug\\layout\\myactivity.xml",
+        "source": "D:\\github clone repository\\Cooventure\\app\\src\\main\\res\\layout\\myactivity.xml"
+    },
+    {
+        "merged": "D:\\github clone repository\\Cooventure\\app\\build\\intermediates\\res\\merged\\debug\\layout\\myactivity_item.xml",
+        "source": "D:\\github clone repository\\Cooventure\\app\\src\\main\\res\\layout\\myactivity_item.xml"
+    },
+    {
+        "merged": "D:\\github clone repository\\Cooventure\\app\\build\\intermediates\\res\\merged\\debug\\layout\\register.xml",
+        "source": "D:\\github clone repository\\Cooventure\\app\\src\\main\\res\\layout\\register.xml"
+    },
+    {
+        "merged": "D:\\github clone repository\\Cooventure\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "D:\\github clone repository\\Cooventure\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\github clone repository\\Cooventure\\app\\build\\intermediates\\res\\merged\\debug\\layout\\login.xml",
+        "source": "D:\\github clone repository\\Cooventure\\app\\src\\main\\res\\layout\\login.xml"
+    },
+    {
+        "merged": "D:\\github clone repository\\Cooventure\\app\\build\\intermediates\\res\\merged\\debug\\layout\\my.xml",
+        "source": "D:\\github clone repository\\Cooventure\\app\\src\\main\\res\\layout\\my.xml"
+    },
+    {
+        "merged": "D:\\github clone repository\\Cooventure\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_splash.xml",
+        "source": "D:\\github clone repository\\Cooventure\\app\\src\\main\\res\\layout\\activity_splash.xml"
+    },
+    {
+        "merged": "D:\\github clone repository\\Cooventure\\app\\build\\intermediates\\res\\merged\\debug\\layout\\event_details.xml",
+        "source": "D:\\github clone repository\\Cooventure\\app\\src\\main\\res\\layout\\event_details.xml"
+    }
+]

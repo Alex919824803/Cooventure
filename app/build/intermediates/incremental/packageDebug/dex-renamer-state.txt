@@ -1,0 +1,7 @@
+#Thu Sep 15 08:31:01 CST 2016
+base.0=D\:\\github clone repository\\Cooventure\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_29373da61087ec822431a8f8b7e2df0a32b77352
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=D\:\\github clone repository\\Cooventure\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_af9f4148dbcdb7c980bd69976ef9fb28ed81f26a\\classes.dex
+base.1=D\:\\github clone repository\\Cooventure\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_af9f4148dbcdb7c980bd69976ef9fb28ed81f26a
+file.0=D\:\\github clone repository\\Cooventure\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_29373da61087ec822431a8f8b7e2df0a32b77352\\classes.dex

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="D:\github clone repository\Cooventure\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="127a272a6f0307a5990ce54ee0e34f76892d8569">
+        <dex dex="D:\github clone repository\Cooventure\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_29373da61087ec822431a8f8b7e2df0a32b77352\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Android\SDK\extras\android\m2repository\com\android\support\support-v4\19.1.0\support-v4-19.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67">
+        <dex dex="D:\github clone repository\Cooventure\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-v4-19.1.0_cbdc32810068ded381e0c08a4aee1d2089ca9e81\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\github clone repository\Cooventure\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="deba02168c1046a029eab76aa69210eac042a6ca">
+        <dex dex="D:\github clone repository\Cooventure\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_af9f4148dbcdb7c980bd69976ef9fb28ed81f26a\classes.dex" />
+    </item>
+
+</items>

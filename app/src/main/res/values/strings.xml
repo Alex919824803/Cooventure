@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">BigWork</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="main_nodata">暂无数据</string>
+    <string name="main_title">首页</string>
+    <string name="activity_name">活动标题</string>
+    <string name="activity_address">活动地址</string>
+    <string name="activity_time">活动时间:</string>
+    <string name="activity_org">主办单位:</string>
+    <string name="activity_state">活动状态</string>
+    <string name="test">2016年“创青春”现代服务业职业教育集团内部大学生创业大赛</string>
+
+</resources>
